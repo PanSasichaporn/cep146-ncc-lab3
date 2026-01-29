@@ -9,6 +9,7 @@
 * Egg: An egg lends more moisture and helps bind the cookie dough together.
 
 ##How to Make Sugar Cookies From Scratch
+###Here's a quick overview of what you can expect when you make homemade sugar cookies:
 1. Beat sugar, butter, egg, and vanilla in one bowl; mix flour and leaveners in another.
 2. Gradually blend the flour mixture into the butter mixture.
 3. Roll the dough into balls and bake until the edges are golden.
