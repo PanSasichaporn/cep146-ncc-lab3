@@ -1,0 +1,89 @@
+
+Host Name:                 LAPTOP-F3EQ3OKO
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          User
+Registered Organization:   N/A
+Product ID:                00327-35844-91173-AAOEM
+Original Install Date:     4/10/2021, 1:10:19 PM
+System Boot Time:          1/28/2026, 9:49:03 PM
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              TUF Gaming FX505DU_FX505DU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 24 Stepping 1 AuthenticAMD ~1700 Mhz
+BIOS Version:              American Megatrends Inc. FX505DU.316, 1/28/2021
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,192 MB
+Available Physical Memory: 6,590 MB
+Virtual Memory: Max Size:  26,458 MB
+Virtual Memory: Available: 13,566 MB
+Virtual Memory: In Use:    12,892 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-F3EQ3OKO
+Hotfix(s):                 23 Hotfix(s) Installed.
+                           [01]: KB5027122
+                           [02]: KB4562830
+                           [03]: KB4577586
+                           [04]: KB4580325
+                           [05]: KB4589212
+                           [06]: KB5003791
+                           [07]: KB5012170
+                           [08]: KB5033052
+                           [09]: KB5013942
+                           [10]: KB5006753
+                           [11]: KB5007273
+                           [12]: KB5011352
+                           [13]: KB5011651
+                           [14]: KB5014032
+                           [15]: KB5014035
+                           [16]: KB5014671
+                           [17]: KB5015895
+                           [18]: KB5016705
+                           [19]: KB5020372
+                           [20]: KB5022924
+                           [21]: KB5025315
+                           [22]: KB5026879
+                           [23]: KB5005699
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Wi-Fi 6E AX210 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.102.20.20
+                                 IP address(es)
+                                 [01]: 10.248.148.154
+                                 [02]: fe80::650a:e65d:7330:911c
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection 2
+                                 Status:          Media disconnected
+                           [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.106.254
+                                 IP address(es)
+                                 [01]: 192.168.106.1
+                                 [02]: fe80::2034:da41:bcf8:6e64
+                           [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.35.254
+                                 IP address(es)
+                                 [01]: 192.168.35.1
+                                 [02]: fe80::7056:f031:55b0:4ae
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+User
